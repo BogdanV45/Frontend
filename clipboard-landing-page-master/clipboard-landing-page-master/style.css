@@ -213,7 +213,7 @@ footer .social-media {
     cursor: pointer;
 }
 
-.showcase button:hover{
+.showcase button:hover {
     opacity: 0.8;
     outline: grey dotted;
 }
@@ -222,7 +222,6 @@ footer .social-media {
     opacity: 0.8;
     outline: grey dotted;
 }
-
 
 
 @media (min-width: 768px) {
@@ -309,6 +308,10 @@ footer .social-media {
     footer .social-media {
         margin-top: 0;
         gap: 0;
+    }
+
+    footer .extra li button:hover {
+        color: skyblue;
     }
 
 

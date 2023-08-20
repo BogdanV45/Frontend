@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78f0ef4-2ec2-49a8-a572-aef37c376dd2" name="Changes" comment="qr-code">
-      <change afterPath="$PROJECT_DIR$/column preview card/3-column-preview-card-component-main/3-column-preview-card-component-main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/column preview card/3-column-preview-card-component-main/3-column-preview-card-component-main/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/README-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/design/active-states.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/design/desktop-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/design/desktop-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/bg-header-desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/bg-header-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-blacklist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-preview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/image-computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/image-devices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo-hp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo-ibm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo-microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo-vector-graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-landing-page-master/clipboard-landing-page-master/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,24 +61,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Bogdan/Desktop/Bogdan/App Dev On My Own/Udemy-herexamens/frontend/.idea/Frontend.iml",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bogdan/Desktop/Bogdan/App Dev On My Own/Udemy-herexamens/frontend/.idea/Frontend.iml&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Bogdan\Desktop\Bogdan\App Dev On My Own\Frontend\QR code component\qr-code-component-main" />
@@ -68,7 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1690976842744</updated>
       <workItem from="1690976844152" duration="9417000" />
-      <workItem from="1690996931345" duration="7183000" />
+      <workItem from="1690996931345" duration="7460000" />
+      <workItem from="1692438934617" duration="9016000" />
+      <workItem from="1692466651184" duration="20551000" />
     </task>
     <task id="LOCAL-00001" summary="qr-code">
       <created>1690997250654</created>
@@ -95,6 +123,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="qr-code" />
     <option name="LAST_COMMIT_MESSAGE" value="qr-code" />
   </component>
